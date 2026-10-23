@@ -7,8 +7,8 @@ A responsive portfolio website showcasing my profile, skills, projects and profe
 
 https://vercel.com/avengers-5655/portfolio
 Keep it near the top.
-<img width="1920" height="1080" alt="Screenshot 2026-10-15 100501" src="https://github.com/user-attachments/assets/633a2f70-85e9-4964-aa92-744e5bc5396a" />
-<img width="1920" height="1080" alt="Screenshot 2026-10-15 100455" src="https://github.com/user-attachments/assets/eb72f3f5-e89f-4243-905f-3fa57af5d5f3" />
+<img width="1920" height="1080" alt="<img width="1280" height="800" alt="Screenshot 2026-10-23 at 11 49 10 AM" src="https://github.com/user-attachments/assets/4d29bd71-92e7-45ae-8377-697cd23b102d" />
+<img width="1920" height="1080" alt="<img width="1280" height="800" alt="Screenshot 2026-10-23 at 11 49 02 AM" src="https://github.com/user-attachments/assets/46fcba27-3287-4bdd-8880-d1acfdfa2802" />
 
 
 For a portfolio, use:
